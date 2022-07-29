@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NotThatKindaGuy
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning AI
